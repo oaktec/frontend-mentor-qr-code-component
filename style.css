@@ -42,13 +42,3 @@ body {
   padding: 0 20px 30px 20px;
   text-align: center;
 }
-
-.attribution {
-  padding: 4px;
-  font-size: 11px;
-  text-align: center;
-  margin-top: auto;
-}
-.attribution a {
-  color: hsl(228, 45%, 44%);
-}
